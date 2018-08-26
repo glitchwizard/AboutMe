@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: dimgray;
+}
+
+.jumbotron {
+    background-color: darkgray;
+    border-color: red;
+}
