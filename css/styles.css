@@ -4,6 +4,7 @@ body {
 
 p {
     color: dimgray;
+    margin: 10px;
 }
 
 .jumbotron {
@@ -13,4 +14,12 @@ p {
 
 #eating {
     color: red;
+}
+
+h3 {
+    margin: 10px;
+}
+
+li {
+    margin: 10px;
 }
